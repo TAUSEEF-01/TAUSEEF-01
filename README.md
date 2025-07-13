@@ -16,10 +16,19 @@
 ## 🌐 Connect with me:
 
 <div align="center">
-  
+
+### 🌟 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tauseef-thebest-01-portfolio.vercel.app/)
+
+### 📱 Social Media
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-tauseef-ur-rahman-9240bb259)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/mdtauseefur.rahman.98)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tauseef_01)
+
+### 💻 Coding Platforms
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tauseef_01)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/thebest_01)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/tauseef_01)
@@ -47,6 +56,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ### ⚙️ Backend & Server Technologies
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
