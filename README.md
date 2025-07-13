@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm <span style="color:#007acc">Md. Tauseef - Ur - Rahman</span>
 
-<h3>👨‍💻 Competitive Programmer | 💻 Full-Stack Developer | 🧠 Problem Solver | 🚀 Impact Maker</h3>
+<h3>👨‍💻 Competitive programmer | 💻 Full-stack Developer | 🧠 Passionate about solving complex problems & 🚀 building impactful projects!</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tauseef-01&label=Profile%20views&color=0e75b6&style=flat" alt="tauseef-01" />
