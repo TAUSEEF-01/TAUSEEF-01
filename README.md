@@ -2,13 +2,23 @@
   
 # 👋 Hi, I'm <span style="color:#007acc">Md. Tauseef - Ur - Rahman</span>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&multiline=true&width=435&lines=Full-stack+developer%2C+Competitive+programmer%2C+CTF+player%2C+ML+enthusiast" alt="Typing SVG" /></a>
+
 
 <h3>👨‍💻 Competitive programmer | 💻 Full-stack Developer | 🧠 Passionate about solving complex problems & 🚀 building impactful projects!</h3>
+
+
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=tauseef-01&label=Profile%20views&color=0e75b6&style=flat" alt="tauseef-01" />
   <img src="https://img.shields.io/github/followers/tauseef-01?label=Followers&style=social" alt="GitHub Badge">
+</p>
+
+
+<p>
+  <img src="https://i.gifer.com/JXA0.gif">
+</p>
+<p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&multiline=true&width=435&lines=Full-stack+developer%2C+Competitive+programmer%2C+CTF+player%2C+ML+enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
