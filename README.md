@@ -2,6 +2,8 @@
   
 # 👋 Hi, I'm <span style="color:#007acc">Md. Tauseef - Ur - Rahman</span>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=10&pause=1000&multiline=true&width=435&lines=Full-stack+developer%2C+Competitive+programmer%2C+CTF+player%2C+ML+enthusiast" alt="Typing SVG" /></a>
+
 <h3>👨‍💻 Competitive programmer | 💻 Full-stack Developer | 🧠 Passionate about solving complex problems & 🚀 building impactful projects!</h3>
 
 <p>
